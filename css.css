@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(214, 196, 255);
+    
+}
+
+h1{
+    background-color: rgb(108, 98, 131);
+    padding: 10px;
+    border: rgb(8, 6, 8);
+    border-style: double;
+}
